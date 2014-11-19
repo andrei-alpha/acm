@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1414223157 source:/homes/aba111/nwerc/neerc2014/1/D.cpp
+	<stdio.h>
+	<iostream>
+	<algorithm>
+	<vector>
+	<limits>
+
+1414224611 source:/homes/aba111/nwerc/neerc2014/1/M.cpp
+	<stdio.h>
+	<iostream>
+	<cstring>
+	<vector>
+
+1414228900 source:/homes/aba111/nwerc/neerc2014/g.cpp
+	<cstdio>
+	<algorithm>
+
+1414232654 source:/homes/aba111/nwerc/neerc2014/1/C.cpp
+	<stdio.h>
+	<vector>
+	<unordered_map>
+	<cstring>
+	<string>
+	<algorithm>
+	<iostream>
+
+1414239903 source:/homes/aba111/nwerc/neerc2014/1/A.cpp
+	<stdio.h>
+	<algorithm>
+
